@@ -1,7 +1,7 @@
 # FriedEgg
 An hobbyist social network written from scratch using python & Django.
 ## RoadMap
-To see the roadmap, **<a href="/Rix565/friedegg/blob/main/docs/roadmap.md">go here.</a>** 
+To see the roadmap, **<a href="https://github.com/Rix565/friedegg/blob/main/docs/roadmap.md">go here.</a>** 
 ## Quick start
 To get your FriedEgg instance up and running, you'll need:
 <ul>
