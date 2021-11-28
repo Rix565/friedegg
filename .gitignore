@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/
+/friedegg_main/migrations/
+/friedegg/__pycache__/
+/friedegg_main/__pycache__/
+/db.sqlite3

@@ -1,0 +1,10 @@
+{% if latest_public_posts %}
+    <ul>
+    {% for post in latest_public_posts %}
+        <li><a href="/posts/{{ post.id }}/">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No posts have been published.</p>
+{% endif %}
+<p>FriedEgg Prototype</p>

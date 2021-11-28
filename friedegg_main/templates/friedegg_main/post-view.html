@@ -1,0 +1,8 @@
+{% if post %}
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.content }}</p>
+    <i>author id: {{ post.publisher_id }}</i>
+{% else %}
+    <p>This post doesn't seems to exist.</p>
+{% endif %}
+<p>FriedEgg Prototype</p>
