@@ -18,9 +18,9 @@ If all these requirements are met, you can continue following this guide.
 Get the source code of the project by clicking on Code->Download zip.
 Extract it on a folder.
 ### Step 2
-Go to that folder, and go to the folder name friedegg (not friedegg_main), and open settings.py. Configure this file the way you'll like to.
+Go to that folder, and go to the folder named friedegg (not friedegg_main), and open settings.py. Configure this file the way you'll like to.
 ### Step 2
-Open your terminal (or cmd, if you're using Windows), go to the folder of the installation of your instance, and type this command:
+Open your terminal (or cmd, if you're using Windows), go to the folder of your FriedEgg instance, and type this command:
 ```python manage.py makemigrations```
 
 Once this is done, do that command :
